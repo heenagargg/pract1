@@ -1,7 +1,3 @@
 Hello everyone!
-<<<<<<< HEAD
-heyyyyy!
-=======
 heyyyyy!
 welcome!
->>>>>>> parent of 5283631 (add welcome)
