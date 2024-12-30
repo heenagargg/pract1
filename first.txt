@@ -1,7 +1,1 @@
-Hello everyone!
-<<<<<<< HEAD
-heyyyyy!
-welcome!
-=======
-heyyyyy!
->>>>>>> parent of d061cb0 (revert file)
+welcome everyone

@@ -1,2 +1,5 @@
-var a=2
-console.log(a)
+const a=2
+const b=4
+sum=a+b
+console.log(sum)
+
